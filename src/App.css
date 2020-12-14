@@ -1,7 +1,14 @@
+.rev {
+  display: flex;
+  flex-direction: row;
+}
 .App {
   text-align: center;
 }
-
+.Par{
+  justify-content: center;
+}
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +42,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
